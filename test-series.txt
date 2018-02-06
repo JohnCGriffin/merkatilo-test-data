@@ -1,3 +1,6 @@
+# Various tests depend upon this file not changing.
+# After removing these comments, the md5sum of
+# this file is 6dfa1d7bba44cdd9c61b6bdf0d3e855d.
 2012-01-03 270
 2012-01-04 270
 2012-01-05 269
